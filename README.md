@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # AI Learning Companion
 
@@ -162,3 +163,6 @@ Contributions are welcome. Please fork the repository and submit a pull request 
 
 Empowering students with learning difficulties to **learn smarter, engage deeper, and succeed independently**, while providing **parents and teachers with actionable insights** to support every learner.
 
+=======
+# AI-LEARNING
+>>>>>>> a4e49bcdce4fdb85ce1bed71b498bb744140dd1b
